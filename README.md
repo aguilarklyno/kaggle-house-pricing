@@ -1,5 +1,6 @@
 # kaggle-house-pricing
-kaggleのhouse pricing のレポジトリです。
+
+## DSL Team-A の kaggle house pricing のレポジトリです。
 
 
 ## Branches
@@ -13,4 +14,3 @@ ___
 ___
 
 @Masato works in " "
-
